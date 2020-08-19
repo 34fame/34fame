@@ -1,6 +1,7 @@
 TOC
 ===
 - [Sites](#sites)
+- [Active Projects](#active-projects)
 
 Sites
 ---
