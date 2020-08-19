@@ -8,7 +8,8 @@ TOC
 Sites
 ---
 
-- [Firebase Console](https://console.firebase.google.com) :fire:
+- <a href="https://console.firebase.google.com" target="_blank">Firebase Console</a> :fire:
+- [Firebase Console](https://console.firebase.google.com){:target="_blank"} :fire:
 - [Quasar Framework](https://quasar.dev)
 - [Vue.js](https://vuejs.org)
 - [Vue Router](https://router.vuejs.org)
