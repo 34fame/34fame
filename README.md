@@ -15,6 +15,7 @@ Sites
 - [Vue Router](https://router.vuejs.org)
 - [Vuex](https://vuex.vuejs.org)
 
+- [lodash](https://lodash.com/)
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 - [Emoji Markdown](https://gist.github.com/rxaviers/7360908)
 
