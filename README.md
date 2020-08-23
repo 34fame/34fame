@@ -6,12 +6,15 @@ Portfolio
 Products :see_no_evil:
 ---
 
-- [KeeperRx](https://github.com/34fame/keeperrx) (private :see_no_evil:)
+- [KeeperRx](https://github.com/34fame/keeperrx) (private)
+  > Take control of your medical life!
 
 Open Source
 ---
 - [Conflux](https://github.com/34fame/conflux)
+  > Confluence clone
 - [Gojira](https://github.com/34fame/gojira)
+  > Jira Clone
 
 Packages
 ---
