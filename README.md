@@ -5,6 +5,6 @@ Portfolio
 - [KeeperRx](https://github.com/34fame/keeperrx) (private :see_no_evil:)
 - [Conflux](https://github.com/34fame/conflux)
 - [Gojira](https://github.com/34fame/gojira)
-- Create Reminder Component
+- Create Reminder Scheduler Sandbox
   - [Repository](https://github.com/34fame/q-reminder-dialog)
   - [Demo](https://34fame.github.io/q-reminder-dialog)
