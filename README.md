@@ -23,6 +23,5 @@ Packages :package:
 
 Concepts :construction_worker:
 ---
-- Create Reminder Scheduler Sandbox
-  - [Repository](https://github.com/34fame/q-reminder-dialog)
-  - [Demo](https://34fame.github.io/q-reminder-dialog)
+- [Reminder Scheduler](https://github.com/34fame/q-reminder-dialog)
+  > Create simple or complex reminders with recurring rules
