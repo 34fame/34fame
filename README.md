@@ -18,6 +18,8 @@ Open Source :penguin:
 
 Packages :package:
 ---
+- [@34fame/validator](https://www.npmjs.com/package/@34fame/validator)
+  > Form field validator for React
 
 Concepts :construction_worker:
 ---
