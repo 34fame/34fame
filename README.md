@@ -15,6 +15,8 @@ Open Source :penguin:
   > Confluence clone
 - [Gojira](https://github.com/34fame/gojira)
   > Jira Clone
+- [ez-crud-api](https://github.com/34fame/ez-crud-api)
+  > Bery simple but flexible Node.js/Express REST API service with built-in CRUD endpoints and JSON "database".
 
 Packages :package:
 ---
