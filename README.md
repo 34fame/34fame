@@ -39,12 +39,5 @@ Packages :package:
 Articles
 ===
 
-[Medium.com](https://graypes.medium.com)
+https://graypes.medium.com/
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0" alt="Recent article #1"></a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/1" alt="Recent article #2"></a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/2" alt="Recent article #3"></a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/3" alt="Recent article #4"></a>
