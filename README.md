@@ -41,6 +41,8 @@ Articles
 
 https://graypes.medium.com/
 
+https://graypes.medium.com/add-real-time-updates-to-your-vue-app-2448339e6b5b
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0" alt="Recent article #1"></a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/1" alt="Recent article #2"></a>
