@@ -39,9 +39,7 @@ Packages :package:
 Articles
 ===
 
-https://graypes.medium.com/
-
-https://graypes.medium.com/add-real-time-updates-to-your-vue-app-2448339e6b5b
+[Medium](https://graypes.medium.com/)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0" alt="Recent article #1"></a>
 
