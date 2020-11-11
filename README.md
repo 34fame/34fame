@@ -7,8 +7,6 @@ Products :see_no_evil:
 ---
 - [KeeperRx](https://github.com/34fame/keeperrx) (private)
   > Take control of your medical life!
-- [International Bank of Kids](https://github.com/34fame/ibofk) (private)
-  > Money manager for kids (and parents).
 
 Open Source Projects :penguin:
 ---
