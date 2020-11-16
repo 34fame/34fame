@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/34fame/34fame/master/bull-transparent_4000x4000.png" alt="34 Fame Logo" width="256px">
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=34fame&layout=compact)
+
 Portfolio
 ===
 
