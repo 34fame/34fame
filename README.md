@@ -43,6 +43,9 @@ Articles
   <img align="left" alt="Troy Moreland | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png" />
 </a>
 
+<br/>
+<br/>
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0" alt="Recent article #1"></a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/1" alt="Recent article #2"></a>
@@ -52,7 +55,38 @@ Articles
 Languages and Tools
 ===
 
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
+Learning
+---
+
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/electron/electron.png"></code>
+
+Current
+---
+
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/auth0/auth0.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/css/css.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/es6/es6.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/express/express.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/html/html.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/json/json.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/markdown/markdown.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/postgresql/postgresql.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/sqlite/sqlite.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/vue/vue.png"></code>
+
+Past
+---
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/aws/aws.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/azure/azure.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/ada/ada.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/fortran/fortran.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/php/php.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/react/react.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/storybook/storybook.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/visual-basic/visual-basic.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/xml/xml.png"></code>
