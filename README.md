@@ -39,7 +39,9 @@ Packages :package:
 Articles
 ===
 
-[Medium](https://graypes.medium.com/)
+<a href="https://graypes.medium.com/">
+  <img align="left" alt="Troy Moreland | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png" />
+</a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0" alt="Recent article #1"></a>
 
@@ -47,3 +49,10 @@ Articles
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/2" alt="Recent article #3"></a>
 
+Languages and Tools
+===
+
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
