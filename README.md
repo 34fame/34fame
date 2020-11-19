@@ -7,7 +7,7 @@ Portfolio
 
 Products :see_no_evil:
 ---
-- [KeeperRx](https://github.com/34fame/keeperrx) (private)
+- [KeeperRx](https://www.keeperrx.com)
   > Take control of your medical life!
 
 Open Source Projects :penguin:
