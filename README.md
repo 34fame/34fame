@@ -30,6 +30,8 @@ Sandbox Projects :construction_worker:
   > Starter kit for Quasar Framework with built-in support for Auth0 and Firebase.  Project is corodova-friendly.
 - [vue-xstate-auth0](https://github.com/34fame/sandbox-vue-xstate-auth0)
   > Implements a finite-state machine (XState library) to manage lifecycle of authentication.  Integrates with Auth0 services.
+- [node-cli-sandbox](https://github.com/34fame/node-cli-sandbox)
+  > Demonstrates building a command-line app using Node.js.  Publish to NPM to easily install as a global package.
 
 Packages :package:
 ---
@@ -89,4 +91,3 @@ Past
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/react/react.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/storybook/storybook.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/visual-basic/visual-basic.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/xml/xml.png"></code>
