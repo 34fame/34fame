@@ -23,7 +23,7 @@ Sandbox Projects :construction_worker:
 - [Reminder Scheduler](https://github.com/34fame/q-reminder-dialog)
   > Create simple or complex reminders with recurring rules
 - [CRT Terminal Emulator](https://github.com/34fame/crt-terminal-emulator)
-  > Fun project what "boots" up a CRT (circa-1980's) terminal and lets you run commands
+  > Fun project that "boots" up a CRT (circa-1980's) terminal in the browser and lets you run commands
 - [ez-crud-api](https://github.com/34fame/ez-crud-api)
   > Simple but flexible REST API with pre-built CRUD endpoints and a local JSON database.  Great for front-end developers when developing prototypes.
 - [quasar-mobile-auth0-firebase](https://github.com/34fame/quasar-mobile-auth0-firebase)
