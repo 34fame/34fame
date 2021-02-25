@@ -12,6 +12,8 @@ Products :see_no_evil:
 
 Open Source Projects :penguin:
 ---
+- [RapidIdentity JavaScript SDK](https://github.com/34fame/rijs)
+  > Simplifies use of RapidIdentity API
 - [Conflux](https://github.com/34fame/conflux)
   > Confluence clone
 - [Gojira](https://github.com/34fame/gojira)
