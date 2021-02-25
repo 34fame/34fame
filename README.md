@@ -39,6 +39,8 @@ Packages :package:
 ---
 - [@34fame/validator](https://www.npmjs.com/package/@34fame/validator)
   > Form field validator for React
+- [@34fame/rijs](https://www.npmjs.com/package/@34fame/rijs)
+  > RapidIdentity JavaScript SDK
 
 Articles
 ===
