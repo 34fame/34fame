@@ -47,16 +47,16 @@ Packages :package:
 Articles
 ===
 
-<a href="https://graypes.medium.com/">
-  <img align="left" alt="Troy Moreland | Medium" width="64px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png" />
-</a>
+<p><a href="https://graypes.medium.com/">
+  <img align="left" alt="Troy Moreland | Medium" width="128px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png" />
+</a></p>
 
 <br/>
 <ul>
-  <li>Add Real-Time Updates to Your Vue App</li>
-  <li>Add Dynamic Forms to Your Vue App</li>
-  <li>Add Recurring Rules for Calendar Dates to Your Application</li>
-  <li>Add Embedded Google Maps to Your Application</li>
+  <li><a href="https://levelup.gitconnected.com/add-real-time-updates-to-your-vue-app-2448339e6b5b" target="_blank">Add Real-Time Updates to Your Vue App<a></li>
+  <li><a target="_blank" href="https://levelup.gitconnected.com/add-dynamic-forms-to-your-vue-app-609de4005a2b">Add Dynamic Forms to Your Vue App</a></li>
+  <li><a target="_blank" href="https://levelup.gitconnected.com/add-recurring-rules-for-calendar-dates-to-your-application-401e39b56b2f">Add Recurring Rules for Calendar Dates to Your Application</a></li>
+  <li><a target="_blank" href="https://levelup.gitconnected.com/add-embedded-google-maps-to-your-application-432605cdbeac">Add Embedded Google Maps to Your Application</a></li>
 <br/>
 
 Languages and Tools
