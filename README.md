@@ -7,8 +7,10 @@ Portfolio
 
 Products :see_no_evil:
 ---
-- [KeeperRx](https://www.keeperrx.com) :construction:
+- [KeeperRx](https://www.keeperrx.com)
   > Take control of your medical life!
+- [TFT Trait Randomizer](https://github.com/34fame/tft-trait-randomizer)
+  > My first mobile app to be published in the Apple App Store.  If you play TFT (League of Legends) you should check it out.
 
 Open Source Projects :penguin:
 ---
@@ -46,27 +48,21 @@ Articles
 ===
 
 <a href="https://graypes.medium.com/">
-  <img align="left" alt="Troy Moreland | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png" />
+  <img align="left" alt="Troy Moreland | Medium" width="64px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png" />
 </a>
 
 <br/>
+<ul>
+  <li>Add Real-Time Updates to Your Vue App</li>
+  <li>Add Dynamic Forms to Your Vue App</li>
+  <li>Add Recurring Rules for Calendar Dates to Your Application</li>
+  <li>Add Embedded Google Maps to Your Application</li>
 <br/>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/0" alt="Recent article #1"></a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/1" alt="Recent article #2"></a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/2" alt="Recent article #3"></a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@graypes/3" alt="Recent article #4"></a>
 
 Languages and Tools
 ===
 
-Learning
----
-
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/electron/electron.png"></code>
+Primarily full-stack Javascript (Vue/Quasar & Node/Express).
 
 Current
 ---
