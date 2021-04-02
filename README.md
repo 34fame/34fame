@@ -57,25 +57,24 @@
 
 Primarily full-stack Javascript (Vue/Quasar & Node/Express).
 
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/vue/vue.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/express/express.png"></code>
+<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/auth0/auth0.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/css/css.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/es6/es6.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/express/express.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/html/html.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/json/json.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/markdown/markdown.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/sqlite/sqlite.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/vue/vue.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/aws/aws.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/azure/azure.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/ada/ada.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/fortran/fortran.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/php/php.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/react/react.png"></code>
 <code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/storybook/storybook.png"></code>
