@@ -47,6 +47,7 @@
 
 <br/>
 <ul>
+  <li><a href="https://graypes.medium.com/the-missing-chapter-for-building-applications-on-firebase-7342f450bb6d" target="_blank">The Missing Chapter for Building Applications on Firebase</a></li>
   <li><a href="https://levelup.gitconnected.com/add-real-time-updates-to-your-vue-app-2448339e6b5b" target="_blank">Add Real-Time Updates to Your Vue App<a></li>
   <li><a target="_blank" href="https://levelup.gitconnected.com/add-dynamic-forms-to-your-vue-app-609de4005a2b">Add Dynamic Forms to Your Vue App</a></li>
   <li><a target="_blank" href="https://levelup.gitconnected.com/add-recurring-rules-for-calendar-dates-to-your-application-401e39b56b2f">Add Recurring Rules for Calendar Dates to Your Application</a></li>
