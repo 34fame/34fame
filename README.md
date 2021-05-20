@@ -4,7 +4,7 @@
 
 # Portfolio
 
-[34 Fame](https://www.34fame.com)
+Visit the [34 Fame](https://www.34fame.com) website for a current portfolio.
 
 ## Products :see_no_evil:
 
@@ -56,29 +56,16 @@
   <li><a target="_blank" href="https://levelup.gitconnected.com/add-embedded-google-maps-to-your-application-432605cdbeac">Add Embedded Google Maps to Your Application</a></li>
 </ul>
 
-# Languages and Tools
-
-Primarily full-stack Javascript (Vue/Quasar & Node/Express).
-
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/vue/vue.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/express/express.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/auth0/auth0.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/css/css.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/es6/es6.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/html/html.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/json/json.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/markdown/markdown.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/sqlite/sqlite.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/aws/aws.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/azure/azure.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/ada/ada.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/php/php.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/react/react.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/storybook/storybook.png"></code>
-<code><img height="40" src="https://github.com/34fame/explore/blob/master/topics/visual-basic/visual-basic.png"></code>
+# Current Technologies
+    
+This is my current list of frameworks and tools I'm using to build full-stack applications.
+   
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue-dot-js)&nbsp;
+![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
+![Graphql](https://img.shields.io/badge/-Graphql-e10098?style=flat&logoColor=fff&logo=graphql)&nbsp;
+![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node-dot-js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logoColor=fff&logo=express)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-C21425?style=flat&logoColor=fff&logo=jest)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-111111?style=flat&logoColor=fff&logo=cypress)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA20?style=flat&logoColor=fff&logo=firebase)&nbsp;
