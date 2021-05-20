@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/34fame/34fame/master/bull-transparent_4000x4000.png" alt="34 Fame Logo" width="256px">
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=34fame&layout=compact)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=34fame.34fame)
 
 # Portfolio
 
@@ -72,3 +72,9 @@ This is my current list of frameworks and tools I'm using to build full-stack ap
 ![Jest](https://img.shields.io/badge/-Jest-C21425?style=flat&logoColor=fff&logo=jest)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-111111?style=flat&logoColor=fff&logo=cypress)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA20?style=flat&logoColor=fff&logo=firebase)&nbsp;
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+![Metrics](https://metrics.lecoq.io/34fame?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=34fame&layout=compact)
